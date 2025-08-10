@@ -80,7 +80,7 @@ Key Windows API calls used:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/dll-injection-rust.git
+   git clone https://github.com/Psych3-N1x/dll-injection-rust.git
    cd dll-injection-rust
    ```
 
@@ -206,7 +206,7 @@ Appels API Windows principaux :
 1. Cloner le dépôt :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/dll-injection-rust.git
+   git clone https://github.com/Psych3-N1x/dll-injection-rust.git
    cd dll-injection-rust
    ```
 
