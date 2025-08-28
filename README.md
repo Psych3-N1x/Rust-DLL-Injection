@@ -253,3 +253,12 @@ Ce projet est **à but éducatif et de recherche uniquement**.
 L’auteur décline toute responsabilité en cas de mauvaise utilisation.
 
 ---
+## **Attention**
+
+[Voir la licence MIT](LICENSE)
+
+-----------------------
+
+## **Pay Attention**
+
+[View it](LICENSE)
